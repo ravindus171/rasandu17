@@ -1,4 +1,4 @@
 # Hey there! 👋
 
-I'm Ravindu Sandummith, an undergrad.  
+I'm Ravindu Sandumith, an undergrad.  
 Curious? Run `npx ravindu` and see for yourself.
